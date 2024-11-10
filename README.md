@@ -78,5 +78,5 @@ plt.axis('off')
 
 ### Display the Dilated Image :
 ![Screenshot 2024-11-10 181600](https://github.com/user-attachments/assets/7f2d913b-6744-44c6-a920-e1774bf92790)
-## Result
+## Result :
 Thus the generated text image is eroded and dilated using python and OpenCV.
